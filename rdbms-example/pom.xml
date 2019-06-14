@@ -20,6 +20,8 @@
     <version.postgresql>42.1.4</version.postgresql>
     <version.teiid.spring-boot>1.0.3</version.teiid.spring-boot>
     <spring-boot.version>2.1.2.RELEASE</spring-boot.version>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>    
   </properties>
   
   <dependencyManagement>
